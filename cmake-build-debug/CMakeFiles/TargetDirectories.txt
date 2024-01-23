@@ -1,0 +1,3 @@
+/Users/haoloi/CLionProject/CSC109/SP24/CH07EXAMPLE1/cmake-build-debug/CMakeFiles/CH07EXAMPLE1.dir
+/Users/haoloi/CLionProject/CSC109/SP24/CH07EXAMPLE1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/haoloi/CLionProject/CSC109/SP24/CH07EXAMPLE1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
