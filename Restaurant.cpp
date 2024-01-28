@@ -31,7 +31,12 @@ Restaurant::Restaurant(std::string name, int userRating) {
 
 }
 
-
-void SetName(std::string restaurantName) {
-
+const string &Restaurant::getName() const {
+    return name;
 }
+
+int Restaurant::getRating() const {
+    return rating;
+}
+
+

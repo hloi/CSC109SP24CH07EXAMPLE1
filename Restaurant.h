@@ -17,11 +17,14 @@ public:
     void SetName(std::string restaurantName);  // Sets the restaurant's name
     void SetRating(int userRating);       // Sets the rating (1-5, with 5 best)
     void Print();                         // Prints name and rating on one line
+
+    const std::string &getName() const;
+
+    int getRating() const;
+
 private:
     std::string name;
     int rating;
-
-
 };
 
 
